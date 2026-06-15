@@ -22,17 +22,11 @@ A passionate developer who loves building impactful solutions, solving complex p
 | **Backend / Database** | `Node.js`  `MongoDB` `PostgreSQL` |
 | **DevOps & Tools** | `Git` `GitHub` `Docker` |
 
-*(Tip: Feel free to swap these out with the specific languages and tools you know!)*
-
 ---
 
 ### 📊 GitHub Stats
-<!-- These are dynamic badges that will automatically update with your GitHub data once you change 'your-username' -->
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=armaan12-code&show_icons=true&theme=transparent)
-
-<!-- Alternative Streak Stats card if the top one is completely down -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armaan12-code&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=armaan12-code&theme=dark)
 ---
 
 ### 🤝 Connect with Me
