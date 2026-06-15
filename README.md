@@ -24,7 +24,7 @@ A passionate developer who loves building impactful solutions, solving complex p
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats                      GitHub Streak
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=armaan12-code&show_icons=true&theme=transparent)
 ![GitHub Streak](https://streak-stats.demolab.com?user=armaan12-code&theme=dark)
 ---
