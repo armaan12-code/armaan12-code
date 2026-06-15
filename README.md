@@ -29,9 +29,10 @@ A passionate developer who loves building impactful solutions, solving complex p
 ### 📊 GitHub Stats
 <!-- These are dynamic badges that will automatically update with your GitHub data once you change 'your-username' -->
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=armaan12-code&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armaan12-code&layout=compact&theme=radial)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=armaan12-code&show_icons=true&theme=transparent)
 
+<!-- Alternative Streak Stats card if the top one is completely down -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armaan12-code&theme=dark)
 ---
 
 ### 🤝 Connect with Me
