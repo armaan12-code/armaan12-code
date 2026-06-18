@@ -6,10 +6,10 @@ A passionate developer who loves building impactful solutions, solving complex p
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **[Leveling up my skills in architecture design and optimizing application performance.]**
-- 🌱 I’m currently learning **[Diving deeper into system design and cloud-native technologies.]**
-- 💬 Let's Talk **[Reach out if you want to chat about clean code, open-source projects, or the latest tech trends.]**
-- ⚡ Fun fact: **[I treat debugging like a detective novel; there is nothing more satisfying than finding that one missing semicolon.]**
+- 🔭 I’m currently working on **Leveling up my skills in architecture design and optimizing application performance.**
+- 🌱 I’m currently learning **Diving deeper into system design and cloud-native technologies.**
+- 💬 Let's Talk **Reach out if you want to chat about clean code, open-source projects, or the latest tech trends.**
+- ⚡ Fun fact: **I treat debugging like a detective novel; there is nothing more satisfying than finding that one missing semicolon.**
 
 ---
 
